@@ -1,13 +1,3 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- * Author:  nguye
- * Created: 12-Mar-2023
- */
-
 DROP SCHEMA IF EXISTS `userdb`;
 CREATE SCHEMA IF NOT EXISTS `userdb` DEFAULT CHARACTER SET latin1;
 USE `userdb`;
